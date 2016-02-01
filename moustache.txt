@@ -2,3 +2,4 @@ Nice 'stache bro
 add
 
 Here's my change from GitHub
+Here's my bug fix.
